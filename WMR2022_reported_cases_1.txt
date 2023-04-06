@@ -1,0 +1,13 @@
+country	method	n
+Eritrea	Suspected cases	343054
+	Microscopy examined	98068
+	Microscopy positive	10114
+Ethiopia	Suspected cases	6716458
+	Microscopy examined	6625851
+	Microscopy positive	1397151
+Kenya	Suspected cases	13748015
+	Microscopy examined	7503911
+	Microscopy positive	1496769
+Uganda	Suspected cases	25048071
+	Microscopy examined	4029037
+	Microscopy positive	1513116
