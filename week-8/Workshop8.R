@@ -1,4 +1,4 @@
-# BIO319 Workshop 8 Script
+# Workshop 8 Script
 # Hannah Chaudhry-Phipps
 # 13/03/2023
 
