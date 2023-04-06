@@ -1,4 +1,4 @@
-# BIO319 Workshop 6 Script
+# Workshop 6 Script
 # Hannah Chaudhry-Phipps
 # 27/02/2023
 
