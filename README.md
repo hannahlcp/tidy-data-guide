@@ -1,6 +1,6 @@
 # Tidy Data in R
 ## Using tidyr
-This repo is week 6 and 8 of the Queen Mary University of London Data Science and Coding module. The content ranges from the philosophy of tidy data, to the pipe, and pivotting, renaming, separating, and mutating datasets. The piece of data cleaning coursework is also included. 
+This repo is week 6 and week 8 of the Queen Mary University of London Data Science and Coding module. The content ranges from the philosophy of tidy data, to the pipe, and pivotting, renaming, separating, and mutating datasets. The piece of data cleaning coursework is also included. 
 
 Directories include datasets, and the code files are extensively commented. The instruction worksheets are available in the respective folders. 
 
