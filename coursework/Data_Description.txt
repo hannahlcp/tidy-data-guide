@@ -1,0 +1,18 @@
+BIO319 Assessment 2 Data Description
+Hannah Chaudhry-Phipps (200433653)
+18th March 2023
+
+The assigned World Health Organisation dataset contains seven total number of disease case recordings for thirty countries, from 2010-2021.
+
+There are three rules of tidy data, as outlined by Wickham (2014):
+1. Each variable forms a column
+2. Each observation forms a row
+3. Each type of observation unit forms a table
+
+Each tidy data rule was violated in the dataset. Rule one was broken because the column headers were year values, not variable names. Furthermore, multiple variables (the total number of disease cases) were stored in the X column. Thus, each variable was not forming a column. Rule two was breached because each row contained multiple observations; each country was one observation, and the total number of a diseases case for each year were variables of that observation. Hence, the variables in the dataset were stored in both rows and columns. Finally, rule three was violated because the dataset combined the total number of disease cases by country and year, as well as each year value. In other words, the dataset associated two sorts of observational units, which were displayed in a single table.
+
+To tidy the data, the tidyr::pivot_longer function was used to manipulate the column name to the year variable. The tidyr::pivot_wider function was utilised to take each value contained in the X column and spread them out as separate columns. 
+
+
+References:
+Wickham, H. (2014) Tidy Data, Journal of Statistical Software, 59(10), pp. 1 23. doi: 10.18637/jss.v059.i10.
