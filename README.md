@@ -22,4 +22,4 @@ Directories include datasets, and the code files are extensively commented. The 
 
 **Coursework:**
 
-Instructions - the dataset is untidy and your assignment is to inspect the data, identify how it is untidy, and then write code to tidy it
+Instructions - the dataset is untidy and your assignment is to inspect the data, identify how it is untidy, and then write code to tidy it.
